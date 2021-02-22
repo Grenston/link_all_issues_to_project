@@ -16,5 +16,8 @@
     "projects"
   ],
   "author": "Grenston",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.2.0"
+  }
 }
