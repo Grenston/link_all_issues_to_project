@@ -1,4 +1,4 @@
-exports.issues_add = async function(pat,repo) {
+async function issues_add(pat,repo) {
     const { Octokit } = require("@octokit/rest");
     const octokit = new Octokit({
         auth: pat
@@ -20,3 +20,4 @@ exports.issues_add = async function(pat,repo) {
         }
     }
 }
+module.exports = issues_add;

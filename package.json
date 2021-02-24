@@ -2,7 +2,7 @@
   "name": "@grenston/link_all_issue_to_proj",
   "version": "1.0.0",
   "description": "Links all the issue in a github repository to your project board.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
