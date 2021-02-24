@@ -20,5 +20,3 @@ exports.issues_add = async function(pat,repo) {
         }
     }
 }
-const constants = require("./constants")
-this.issues_add(constants.personal_pat,constants.repo)
