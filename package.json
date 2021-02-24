@@ -11,7 +11,7 @@
     "url": "https://github.com/Grenston/link_all_issues_to_project.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "github",
